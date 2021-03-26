@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4E4C8FA2-731C-430F-8F8F-3205DB86F89D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA365CCD-D91D-4DAC-ABAB-D8DB4BE512C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/CoreData/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "prepare(dataForSaving:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA365CCD-D91D-4DAC-ABAB-D8DB4BE512C7 - b2e508c7963ec9e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SRAMAssessment.CoreDataManager.prepare(dataForSaving: Swift.Array&lt;SRAMAssessment.CycleStore&gt;) -&gt; ()"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/CoreData/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "566">
+               </Location>
+               <Location
+                  uuid = "AA365CCD-D91D-4DAC-ABAB-D8DB4BE512C7 - 3ac23acba89b81c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SRAMAssessment.CycleStore) -&gt; Swift.Optional&lt;SRAMAssessment.BikeShops&gt; in SRAMAssessment.CoreDataManager.prepare(dataForSaving: Swift.Array&lt;SRAMAssessment.CycleStore&gt;) -&gt; ()"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/CoreData/CoreDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95541A99-9657-4604-8017-764ADCB0F0C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/CoreData/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchBikeShops(latitude:longitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95541A99-9657-4604-8017-764ADCB0F0C9 - 1df1c050e852d454"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SRAMAssessment.DataStore.fetchBikeShops(latitude: Swift.Double, longitude: Swift.Double) -&gt; ()"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/CoreData/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "95541A99-9657-4604-8017-764ADCB0F0C9 - 9f147312d4e09db5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SRAMAssessment.Result&lt;Swift.Array&lt;SRAMAssessment.CycleStore&gt;&gt;) -&gt; () in SRAMAssessment.DataStore.fetchBikeShops(latitude: Swift.Double, longitude: Swift.Double) -&gt; ()"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/CoreData/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "183">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2823AC6-92D2-4923-AAB9-FBE55DCB860A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchShopsWith(router:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "113A7518-0684-4B9D-926E-0133D5D44E36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchShopsWith(router:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1929C419-7FDC-48C1-B623-5C6CE892EB1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchShopsWith(router:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1929C419-7FDC-48C1-B623-5C6CE892EB1E - 452399d3a9df11b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SRAMAssessment.ApiService.fetchShopsWith(router: SRAMAssessment.APIRouter, completion: (SRAMAssessment.Result&lt;Swift.Array&lt;SRAMAssessment.CycleStore&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  uuid = "1929C419-7FDC-48C1-B623-5C6CE892EB1E - 947ec79ed0070855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SRAMAssessment.ApiService.fetchShopsWith(router: SRAMAssessment.APIRouter, completion: (SRAMAssessment.Result&lt;Swift.Array&lt;SRAMAssessment.CycleStore&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "291">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E7FBFCD-0C7E-4E18-82A4-715631D38CF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchShopsWith(router:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E7FBFCD-0C7E-4E18-82A4-715631D38CF3 - 452399d3a9df11b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SRAMAssessment.ApiService.fetchShopsWith(router: SRAMAssessment.APIRouter, completion: (SRAMAssessment.Result&lt;Swift.Array&lt;SRAMAssessment.CycleStore&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  uuid = "8E7FBFCD-0C7E-4E18-82A4-715631D38CF3 - 947ec79ed0070855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SRAMAssessment.ApiService.fetchShopsWith(router: SRAMAssessment.APIRouter, completion: (SRAMAssessment.Result&lt;Swift.Array&lt;SRAMAssessment.CycleStore&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "291">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63F25E35-F2F4-4E27-B576-B8592549C354"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "fetchShopsWith(router:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF8EA1D7-ADC0-4434-A557-D9CA9FB3C3F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "fetchShopsWith(router:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25E0DECB-B466-45A4-BF8C-60CFAD2C7590"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "fetchShopsWith(router:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25E0DECB-B466-45A4-BF8C-60CFAD2C7590 - 947ec79ed0070c75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SRAMAssessment.ApiService.fetchShopsWith(router: SRAMAssessment.APIRouter, completion: (SRAMAssessment.Result&lt;Swift.Array&lt;SRAMAssessment.CycleStore&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1385">
+               </Location>
+               <Location
+                  uuid = "25E0DECB-B466-45A4-BF8C-60CFAD2C7590 - 947ec79ed0070c75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SRAMAssessment.ApiService.fetchShopsWith(router: SRAMAssessment.APIRouter, completion: (SRAMAssessment.Result&lt;Swift.Array&lt;SRAMAssessment.CycleStore&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2337">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD11D54E-FD6D-40D1-8EFE-52105E0CD841"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fetchShopsWith(router:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98738ED9-E332-4518-8004-683D4A2307BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchShopsWith(router:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DABDF682-063B-4753-9735-54C25F518306"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/APIRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3C68C7C-5B4D-4B1F-BF4B-49C06E8D5823"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/APIRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00DB66D0-E8BC-4B65-AFE1-C7F13246D082"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Controller/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4F30499-66A7-407F-A6F9-948AED7754C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Controller/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A42E6DC-F776-47EC-9833-063E2F4CBB44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/CoreData/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "sectionCount()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB016EC0-B4A7-4593-B729-0536484C2940"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/CoreData/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchedResultsController"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AB016EC0-B4A7-4593-B729-0536484C2940 - 6df2682e3400d2a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SRAMAssessment.DataStore.fetchedResultsController.getter : __C.NSFetchedResultsController&lt;__C.NSFetchRequestResult&gt;"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/CoreData/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "221">
+               </Location>
+               <Location
+                  uuid = "AB016EC0-B4A7-4593-B729-0536484C2940 - cafc0c86c92f5d7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.NSFetchedResultsController&lt;__C.NSFetchRequestResult&gt; in SRAMAssessment.DataStore.fetchedResultsController.getter : __C.NSFetchedResultsController&lt;__C.NSFetchRequestResult&gt;"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/CoreData/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "AB016EC0-B4A7-4593-B729-0536484C2940 - 3b58170700995abc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SRAMAssessment.DataStore.fetchedResultsController.setter : __C.NSFetchedResultsController&lt;__C.NSFetchRequestResult&gt;"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/CoreData/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "AB016EC0-B4A7-4593-B729-0536484C2940 - 181e622620724278"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SRAMAssessment.DataStore.fetchedResultsController.modify : __C.NSFetchedResultsController&lt;__C.NSFetchRequestResult&gt;"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/CoreData/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "AB016EC0-B4A7-4593-B729-0536484C2940 - 1d396a0acac7c367"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SRAMAssessment.DataStore.fetchedResultsController.modify : __C.NSFetchedResultsController&lt;__C.NSFetchRequestResult&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SRAMAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dharamvir/Desktop/projects/SRAMAssessment/SRAMAssessment/CoreData/DataStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "26">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB5DEDF2-AF11-4384-A31A-0E1A633B3414"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/CoreData/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchedResultsController"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51ECA106-AF1B-455E-9235-F9B373AB80B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchShopsWith(router:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F75BF32C-6D28-43EE-B0E0-3994A63BFEFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/CoreData/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchedResultsController"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36A21EE1-B045-4679-A3CB-2C66B8726A1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/CoreData/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchedResultsController"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9CA310A-2DD9-4300-8717-75E3123D21BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/CoreData/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "rowsCount(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D364113-D688-4847-83E2-014D4BA87659"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/CoreData/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "rowsCount(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E18E5291-2E77-4DDB-86C7-7B1BA2D3C484"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SRAMAssessment/CoreData/DataStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "sectionCount()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
